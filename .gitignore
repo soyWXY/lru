@@ -1,0 +1,5 @@
+# debug file
+*.o.dSYM/
+
+# build
+*.o
